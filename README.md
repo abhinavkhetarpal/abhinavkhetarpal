@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavkhetarpal&show_icons=true&locale=en" alt="abhinavkhetarpal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkhetarpal&" alt="abhinavkhetarpal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkhetarpal&theme=highcontrast" alt="abhinavkhetarpal" /></p>
 
 
 
