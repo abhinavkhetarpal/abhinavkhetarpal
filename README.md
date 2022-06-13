@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack living in Ottawa</h3>
 
-<p align="left"> <a href="https://www.codewars.com/users/abhinavkhetarpal" target="blank"><img src="https://www.codewars.com/users/malteezy/badges/large" alt="abhinavkhetarpal" /></a> </p>
+<p align="left"> <a href="https://www.codewars.com/users/abhinavkhetarpal" target="blank"><img src="https://www.codewars.com/users/abhinavkhetarpal/badges/large" alt="abhinavkhetarpal" /></a> </p>
 
 - 🌱 All of my projects are available at [abhinavkhetarpal.com](https://abhinavkhetarpal.com)
 - 💬 Reach me at **khetarpalabhinav@gmail.com**
