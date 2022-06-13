@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://www.codewars.com/users/abhinavkhetarpal" target="blank"><img src="https://www.codewars.com/users/abhinavkhetarpal/badges/large" alt="abhinavkhetarpal" /></a> </p>
 
-🌱 All of my projects are available at [abhinavkhetarpal.com](https://abhinavkhetarpal.com)
-💬 Reach me at **khetarpalabhinav@gmail.com**
+- 🌱 All of my projects are available at [abhinavkhetarpal.com](https://abhinavkhetarpal.com)
+- 💬 Reach me at **khetarpalabhinav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
