@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40">, I'm Abhinav</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Abhinav</h1>
 <h3 align="center">I'm a passionate full-stack developer living in Ottawa</h3>
 
 <p align="left"> <a href="https://www.codewars.com/users/abhinavkhetarpal" target="blank"><img src="https://www.codewars.com/users/abhinavkhetarpal/badges/large" alt="abhinavkhetarpal" /></a> </p>
