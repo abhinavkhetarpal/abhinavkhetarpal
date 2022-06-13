@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A passionate full-stack developer living in Ottawa</h3>
+<h3 align="center">I'm a passionate full-stack developer living in Ottawa. I recently graduated with a Bachelor of Computer Science from Carleton University.</h3>
 
 <p align="left"> <a href="https://www.codewars.com/users/abhinavkhetarpal" target="blank"><img src="https://www.codewars.com/users/abhinavkhetarpal/badges/large" alt="abhinavkhetarpal" /></a> </p>
 
