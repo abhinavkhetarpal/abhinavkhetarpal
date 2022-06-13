@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://www.codewars.com/users/abhinavkhetarpal" target="blank"><img src="https://www.codewars.com/users/abhinavkhetarpal/badges/large" alt="abhinavkhetarpal" /></a> </p>
 
-- Bachelor of Computer Science, Carleton University.
+- 🎓 Bachelor of Computer Science, Carleton University.
 - 🌱 All of my projects are available at [abhinavkhetarpal.com](https://abhinavkhetarpal.com)
 - 💬 Reach me at **khetarpalabhinav@gmail.com**
 
